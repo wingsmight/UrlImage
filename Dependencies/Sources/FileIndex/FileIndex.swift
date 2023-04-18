@@ -8,7 +8,7 @@
 import Foundation
 import CoreData
 import PlainDatabase
-import Log
+import LogInternal
 import Model
 
 

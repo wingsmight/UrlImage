@@ -7,7 +7,7 @@
 
 import Foundation
 import Combine
-import Log
+import LogInternal
 
 
 /// `URLSessionCoordinator` manages `URLSession` instance and forwards callbacks to responding `DownloadController` instances.

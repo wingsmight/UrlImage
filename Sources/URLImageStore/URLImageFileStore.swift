@@ -8,7 +8,7 @@
 import Foundation
 import CoreGraphics
 import FileIndex
-import Log
+import LogInternal
 import URLImage
 import ImageDecoder
 

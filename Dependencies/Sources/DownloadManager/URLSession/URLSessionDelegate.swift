@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Log
+import LogInternal
 
 
 final class URLSessionDelegate : NSObject {
